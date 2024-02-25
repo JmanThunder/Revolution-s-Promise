@@ -1,8 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = UBD
-add_core = RUS
+owner = CPL
+controller = CPL
 add_core = CPL
+add_core = UBD
 add_core = LIT
 trade_goods = grain
 life_rating = 35
