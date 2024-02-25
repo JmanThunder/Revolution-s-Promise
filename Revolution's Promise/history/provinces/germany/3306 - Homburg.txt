@@ -1,6 +1,6 @@
-owner = HEH
-
-controller = HEH
+owner = FRA
+controller = FRA
+add_core = FRA
 
 add_core = HEH
 add_core = GER

@@ -1,6 +1,6 @@
-owner = BEL
-
-controller = BEL
+owner = FRA
+controller = FRA
+add_core = FRA
 
 add_core = BEL
 
