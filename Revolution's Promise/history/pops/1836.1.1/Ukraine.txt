@@ -189,13 +189,13 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 43800 
+		size = 13800 
 	}
 	
 	serfs = {
 		culture = romanian
 		religion = orthodox
-		size = 10000 
+		size = 8000 
 	}
 
 	clergymen = {
@@ -219,7 +219,7 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 5450     
+		size = 1050     
 	}
 
 	clergymen = {
@@ -243,7 +243,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 2850
+		size = 10850
 	}
 
 	clergymen = {
@@ -267,7 +267,7 @@
 	farmers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 9300 
+		size = 11300 
 	}
 
 	clergymen = {
@@ -291,12 +291,42 @@
 	farmers = {
 		culture = turkish
 		religion = orthodox
-		size = 2775 
+		size = 1775 
 	}
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 2125
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 2270
+	}
+	
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 250
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 475
+	}
+
 }
 #Felvidek Region (856000) #see Hungary.txt and Slovakia.txt for balance of Region
 #under the rule of Austria in 1836  
-#Uzgorod (856000/214000 POPS) #Part of Ukraine today
+#Chust
 950 = {
 	clergymen = {
 		culture = ukrainian
@@ -319,7 +349,7 @@
 	serfs = {
 		culture = ukrainian
 		religion = orthodox
-		size = 85650  
+		size = 80650  
 	}
 
 	clergymen = {
@@ -343,9 +373,113 @@
 	farmers = {
 		culture = slovak
 		religion = catholic
-		size = 15825
+		size = 10000
 	}
 
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 750  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 200  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 750 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 5725  
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 75  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 800 
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2075    
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 25  
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 75 
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 875  
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 125  
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 500 
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 5975
+	}
+}
+#Uzgorod
+3308 = {
 	aristocrats = {
 		culture = hungarian
 		religion = catholic
@@ -401,6 +535,101 @@
 	}
 
 	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 50 
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 350
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 1000
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 100  
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 500
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 100
+	}
+
+	serfs = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1500
+	}
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 25  
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 250
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50  
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 875  
+	}
+
+	clergymen = {
 		culture = ashkenazi
 		religion = jewish
 		size = 75  
@@ -422,54 +651,6 @@
 		culture = ashkenazi
 		religion = jewish
 		size = 3075    
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 25  
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 75 
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 875  
-	}
-
-	clergymen = {
-		culture = romanian
-		religion = orthodox
-		size = 125  
-	}
-
-	artisans = {
-		culture = romanian
-		religion = orthodox
-		size = 750 
-	}
-
-	soldiers = {
-		culture = romanian
-		religion = orthodox
-		size = 150
-	}
-
-	farmers = {
-		culture = romanian
-		religion = orthodox
-		size = 13975
 	}
 }
 #Galicia Region (2576000) #see Poland.txt for balance of region 
@@ -794,25 +975,25 @@
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 20
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 920
 	}
@@ -1138,25 +1319,25 @@
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 1900
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 4850
 	}
@@ -1248,37 +1429,37 @@
 	}
 	
 	clergymen = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 150
 	}
 	
 	bureaucrats = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 4250
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 10540
 	}
 	
 	soldiers = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 500
 	}
 
 	aristocrats = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 950
 	}	
@@ -1370,43 +1551,43 @@
 	}
 	
 	clergymen = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 150
 	}
 	
 	bureaucrats = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 4250
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 19540
 	}
 	
 	soldiers = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 500
 	}
 	
 	officers = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 25
 	}
 
 	aristocrats = {
-		culture = volga_german
+		culture = north_german
 		religion = catholic
 		size = 1050
 	}	
@@ -1655,6 +1836,12 @@
 		culture = ashkenazi
 		religion = jewish
 		size = 9975
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 500
 	}
 }
 #Zhitomir (460000/115000 POPS)
@@ -2042,6 +2229,12 @@
 		religion = orthodox
 		size = 275
 	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 500
+	}
 }
 #Taurida Region (360000)
 #under the rule of Russia in 1836
@@ -2192,25 +2385,25 @@
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 885
 	}
@@ -2386,25 +2579,25 @@
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 125
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 1800
 	}
@@ -2624,25 +2817,25 @@
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 875
 	}
@@ -2844,25 +3037,25 @@
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 2175
 	}
@@ -2902,13 +3095,13 @@
 	farmers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 58800
+		size = 30800
 	}
 	
 	serfs = {
 		culture = ukrainian
 		religion = orthodox
-		size = 40000
+		size = 28000
 	}
 
 	aristocrats = {
@@ -2974,7 +3167,7 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 4625
+		size = 54625
 	}
 }
 #Nikolaev (248000/62000 POPS)
@@ -3094,25 +3287,25 @@
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 2775
 	}
@@ -3313,37 +3506,37 @@
 	}
 	
 	aristocrats = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	officers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 3575
 	}
@@ -3491,31 +3684,31 @@
 	}
 	
 	clergymen = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 10
 	}
 	
 	bureaucrats = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 3540
 	}
 
 	aristocrats = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 550
 	}	
@@ -3581,6 +3774,13 @@
 		religion = jewish
 		size = 1675
 	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 1000
+	}
+
 }
 #Yuzovka (76000/19000 POPS)
 975 = {
@@ -3749,25 +3949,25 @@
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = south_german
 		religion = catholic
 		size = 875
 	}

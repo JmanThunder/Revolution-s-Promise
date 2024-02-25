@@ -2,6 +2,7 @@ From;To;Type;Through;Data;Comment
 #
 # American Straits
 #
+232;233;sea;2953;0;NYC Long Island
 13;14;sea;3011;0;Vancouver Crossing
 14;78;sea;3011;0;Vancouver Crossing
 62;75;sea;2946;0;Straits of Belle Isle
@@ -71,6 +72,7 @@ From;To;Type;Through;Data;Comment
 254;304;sea;2737;0;Irish Strait
 267;1724;sea;2735;0;Inverness - Orkney Strait
 780;782;land;2762;0;Mostar Bay
+782;2582;land;2763;0;Kotor
 #301;388;sea;2724;0;Straits of Dover
 274;265;sea;2738;0;Ireland Strait Cause AI is dumb
 
@@ -80,6 +82,7 @@ From;To;Type;Through;Data;Comment
 
 1632;2589;sea;2829;0;Pusan - Tshushima Strait
 1661;2589;sea;2829;0;Nagasaki - Tshushima Strait
+1645;3260;sea;2841;0;Sado Island
 1540;1538;sea;2826;0;Nantong - Shanghai through the Yantze River
 1540;1539;sea;2826;0;Nantong - Suzhou through the Yantze River
 1541;1539;sea;2826;0;Tongzhou - Suzhou through the Yantze River
@@ -112,6 +115,7 @@ From;To;Type;Through;Data;Comment
 1667;1659;land;2843;0;Setto Strait
 1411;1408;sea;2803;0;Gunungsitoli Strait
 1404;1399;land;2813;0;Palak Panang Strait
+1404;2637;land;2813;0;Palak Panang Strait
 1402;1398;sea;2814;0;Tanjungpinang Strait
 1458;1455;land;2848;0;Mindoro Strait
 1458;1459;sea;2848;0;Mindoro Strait
@@ -162,6 +166,7 @@ From;To;Type;Through;Data;Comment
 1258;1593;impassable;0;0;scary mountain
 1260;1593;impassable;0;0;scary mountain
 1259;1593;impassable;0;0;scary mountain
+1233;1592;impassable;0;0;scary mountain
 1238;1592;impassable;0;0;scary mountain
 1244;1592;impassable;0;0;scary mountain
 1235;1592;impassable;0;0;scary mountain
@@ -223,6 +228,13 @@ From;To;Type;Through;Data;Comment
 2655;2651;impassable;0;0;Yenisei-Yakut
 2675;2651;impassable;0;0;Yenisei-Yakut
 
+#Indian Exclaves
+
+1303;1292;impassable;0;0;Goa1
+1303;1296;impassable;0;0;Goa2
+1303;1295;impassable;0;0;Goa3
+1312;1317;impassable;0;0;Pondicherry1
+1312;1305;impassable;0;0;Pondicherry2
 
 #
 # The canals

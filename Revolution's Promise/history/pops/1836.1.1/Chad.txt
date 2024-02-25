@@ -747,7 +747,7 @@
 	farmers = {
 		culture = teda
 		religion = sunni
-		size = 1380
+		size = 13380
 	}
 }
 #under the rule of Wadai in 1836

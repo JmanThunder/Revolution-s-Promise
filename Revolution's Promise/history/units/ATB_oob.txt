@@ -7,7 +7,7 @@ PRU = {
 
 army = {
 	name = "Altenburgische Landwehr"
-	location = 3250
+	location = 3284
 	regiment = {
 		name= "1. Linieninfanteriebrigade"
 		type = infantry

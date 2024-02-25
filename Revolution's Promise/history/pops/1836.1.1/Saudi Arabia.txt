@@ -350,6 +350,32 @@
 		size = 4600
 	}
 }
+#Al-Qurayyat
+2639 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 15
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 1100
+	}
+}
 #Nejd Region (204000)
 #under the rule of Nejd in 1836
 #Riyadh (116000/29000 POPS)
@@ -471,6 +497,12 @@
 		religion = sunni
 		size = 5525
 	}
+	
+	slaves = {
+		culture = kefficho
+		religion = animist
+		size = 5000
+	}
 }
 #Hail (12000/3000 POPS)
 1160 = {
@@ -507,13 +539,13 @@
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 1000
+		size = 1200
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 21850
+		size = 23850
 	}
 
 	slaves = {
@@ -696,6 +728,56 @@
 		culture = bedouin
 		religion = shiite
 		size = 11875
+	}
+}
+#Manifa (92000/23000 POPS)
+3278 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 3525
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 1675
+	}
+	
+	slaves = {
+		culture = kefficho
+		religion = animist
+		size = 250
 	}
 }
 #Ahsa (16000/4000 POPS)

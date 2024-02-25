@@ -81,6 +81,12 @@ alliance = {
 	}
 alliance = {
 		first = PRU 
+		second = MST 
+		start_date =  1835.1.1
+		end_date = 1867.1.1
+	}
+alliance = {
+		first = PRU 
 		second = HAM 
 		start_date =  1835.1.1
 		end_date = 1867.1.1
@@ -140,12 +146,6 @@ alliance = {
 		second = LIP 
 		start_date =  1835.1.1
 		end_date = 1867.1.1
-	}
-alliance = {
-		first = PRU 
-		second = MEI 
-		start_date =  1835.1.1
-		end_date = 1867.1.1
 	}	
 alliance = {
 		first = AUS 
@@ -162,6 +162,24 @@ alliance = {
 alliance = {
 		first = PRU 
 		second = WEI 
+		start_date =  1835.1.1
+		end_date = 1867.1.1
+	}
+alliance = {
+		first = PRU 
+		second = ATB 
+		start_date =  1835.1.1
+		end_date = 1867.1.1
+	}
+alliance = {
+		first = PRU 
+		second = SWG 
+		start_date =  1835.1.1
+		end_date = 1867.1.1
+	}	
+alliance = {
+		first = PRU 
+		second = WLD 
 		start_date =  1835.1.1
 		end_date = 1867.1.1
 	}

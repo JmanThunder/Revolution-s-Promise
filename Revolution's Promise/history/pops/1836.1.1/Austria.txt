@@ -265,27 +265,84 @@
 	clergymen = {
 		culture = slovene
 		religion = catholic
-		size = 175 
+		size = 25
 	}
 
 	artisans = {
 		culture = slovene
 		religion = catholic
-		size = 950
+		size = 300
 	}
 
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size = 1200
+		size = 400
 	}
 
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 16675 
+		size = 6675 
 	}
 }
+#Ferlach
+3311 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 50 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 150 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 7500
+	}
+
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 150 
+	}
+
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 800
+	}
+
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 800
+	}
+
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 7500
+	}
+}
+
 #Austria Region (2000000) 
 #under the rule of Austria in 1836  
 #Vienna (1084000/271000 POPS)
@@ -642,3 +699,61 @@
 		size = 5625
 	}
 }
+#Kanaltal
+3288 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 15 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 15 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 3000
+	}
+
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 10 
+	}
+
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 5
+	}
+
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 15
+	}
+
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 2500 
+	}
+
+}
+

@@ -1,7 +1,6 @@
 capital = 1338
-primary_culture = shan
-culture = thai
-culture = kachin
+primary_culture = thai
+culture = shan
 religion = theravada
 government = absolute_monarchy
 plurality = 0.0
@@ -39,6 +38,11 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = theravada_country
+
+govt_flag = {
+	government = absolute_monarchy
+	flag = theocracy
+}
 
 ruling_party = SHA_conservative
 upper_house = {

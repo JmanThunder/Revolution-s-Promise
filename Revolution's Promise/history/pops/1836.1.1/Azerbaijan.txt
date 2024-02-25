@@ -243,7 +243,7 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 1800
+		size = 2000
 	}
 
 	aristocrats = {
@@ -273,7 +273,7 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 900
+		size = 800
 	}
 
 	aristocrats = {
@@ -303,7 +303,7 @@
 	farmers = {
 		culture = dagestani
 		religion = sunni
-		size = 2600
+		size = 2500
 	}
 }
 #Ganja (68000/17000 POPS)
@@ -397,7 +397,7 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 8225
+		size = 9625
 	}
 
 	aristocrats = {
@@ -427,7 +427,7 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 5475
+		size = 3075
 	}
 }
 #Lankaran (56000/14000 POPS)

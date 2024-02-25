@@ -588,7 +588,7 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 12775
+		size = 2775
 	}
 
 	aristocrats = {
@@ -618,7 +618,7 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 11900
+		size = 21900
 	}
 }
 #Aqtau (32000/8000 POPS)
@@ -683,6 +683,12 @@
 		culture = kazak
 		religion = sunni
 		size = 6425
+	}
+	
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 1725
 	}
 }
 #Mawarannahr Region (180000) #see Uzbekistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 

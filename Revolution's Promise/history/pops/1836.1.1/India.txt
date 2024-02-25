@@ -126,33 +126,39 @@
 #Chitral (160000/40000 POPS)
 1223 = {
 	aristocrats = {
-		culture = pashtun
+		culture = kashmiri
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = kashmiri
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = kashmiri
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = kashmiri
 		religion = sunni
 		size = 5000
 	}
 
 	farmers = {
+		culture = kashmiri
+		religion = sunni
+		size = 36000
+	}
+	
+	farmers = {
 		culture = pashtun
 		religion = sunni
-		size = 37000
+		size = 1000
 	}
 
 }
@@ -284,7 +290,7 @@
 	}
 
 	slaves = {
-		culture = kilombero #african_minor
+		culture = lacustrine_bantu #african_minor
 		religion = animist
 		size = 4000
 	}
@@ -335,9 +341,59 @@
 	}
 
 	slaves = {
-		culture = kilombero #african_minor
+		culture = lacustrine_bantu #african_minor
 		religion = animist
 		size = 5000
+	}
+}
+#Kech (124000/31000 POPS)
+3258 = {
+	aristocrats = {
+		culture = baluchi
+		religion = sunni
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = baluchi
+		religion = sunni
+		size = 25
+	}
+
+	officers = {
+		culture = baluchi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 25800
+	}
+
+	slaves = {
+		culture = lacustrine_bantu #african_minor
+		religion = animist
+		size = 2000
 	}
 }
 #Kashmir Region (1208000)
@@ -3871,37 +3927,37 @@
 #Agartala (608000/152000 POPS)
 2566 = {
 	aristocrats = {
-		culture = asian_minor
+		culture = bengali
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = bengali
 		religion = animist
 		size = 875
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = bengali
 		religion = animist
 		size = 5000
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = bengali
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 74125
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = bengali
 		religion = protestant
 		size = 15000
 	}
@@ -4116,36 +4172,36 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = oriya
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = oriya
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = oriya
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = oriya
 		religion = animist
 		size = 250
 	}
 	farmers = {
-		culture = asian_minor
+		culture = oriya
 		religion = animist
 		size = 11225
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = oriya
 		religion = animist
 		size = 10000
 	}
@@ -5358,67 +5414,67 @@
 #Raipur (804000/201000 POPS)
 1280 = {
 	aristocrats = {
-		culture = marathi
+		culture = kanauji
 		religion = hindu
 		size = 850
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = kanauji
 		religion = hindu
 		size = 800
 	}
 
 	artisans = {
-		culture = marathi
+		culture = kanauji
 		religion = hindu
 		size = 7000
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = kanauji
 		religion = hindu
 		size = 800
 	}
 
 	farmers = {
-		culture = marathi
+		culture = kanauji
 		religion = hindu
 		size = 70550
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = marathi
 		religion = animist
 		size = 1250
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = marathi
 		religion = animist
 		size = 1225
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = marathi
 		religion = animist
 		size = 3050
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = marathi
 		religion = animist
 		size = 1250
 	}
 	
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = kanauji
+		religion = hindu
 		size = 604225
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = marathi
 		religion = animist
 		size = 50000
 	}
@@ -5452,43 +5508,43 @@
 	farmers = {
 		culture = marathi
 		religion = hindu
-		size = 74300
+		size = 34300
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = kanauji
 		religion = animist
 		size = 850
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = kanauji
 		religion = animist
 		size = 850
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = kanauji
 		religion = animist
 		size = 3400
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = kanauji
 		religion = animist
 		size = 850
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = kanauji
 		religion = animist
 		size = 50050
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = kanauji
 		religion = animist
-		size = 30000
+		size = 70000
 	}
 }
 #Under rule of Hyderabad 1836
@@ -7334,8 +7390,8 @@
 	}
 
 	farmers = {
-		culture = marathi
-		religion = hindu
+		culture = kannada
+		religion = sunni
 		size = 40000
 	}
 }
@@ -9196,19 +9252,19 @@
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = tibetan
 		religion = gelugpa
 		size = 2000
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = tibetan
 		religion = animist
 		size = 365
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = tibetan
 		religion = hindu
 		size = 1000
 	}

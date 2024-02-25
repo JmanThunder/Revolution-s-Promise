@@ -1,6 +1,5 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = SAR
+controller = SAR
 add_core = SAR
 add_core = ITA
 trade_goods = grain

@@ -1,4 +1,8 @@
 ;;;;;;;;;;;;;;;;;x
+restore_crimea_title;Restore Crimea;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+restore_crimea_desc;Now that the Crimean peninsula is back under our rule, we should give it back its proper Slavic names.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+germanize_crimea_title;Germanize Crimea;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+germanize_crimea_desc;After acquiring Crimea, we should germanize the names, to show the world who´s ruling the peninsula now.;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 end_of_natural_dyes_title;An End to Natural Dyes?;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 end_of_natural_dyes_desc;The discovery of man-made synthetic dyes in the mid-19th century triggered a long decline in the large-scale market for natural dyes. Synthetic dyes, which can be produced in large quantities, quickly superseded natural dyes for the commercial textile production enabled by the industrial revolution, and unlike natural dyes, are suitable for the synthetic fibres that followed. In a few of our provinces, the production of natural dyes is in a steady decline for a few years and now producers can barely sell their product. Faced with bankruptcy, most dye producers are looking for new goods to sell. We can help them look for new markets.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;
 vassal_stop_paying_vassal_payments_title;Stop Paying Overlord Taxes;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
@@ -458,7 +462,7 @@ brazilian_rubber_boom_desc;The rubber boom or Ciclo da borracha was an important
 organize_namibia_title;Organize Namibia;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 organize_namibia_desc;We should organize the African colonies to better reflect both a local structure, as well as set up the possibility for autonomous rule -- dominated by our benevolent colonial administrators, of course.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 integrate_kazakhstan_title;Integrate Kazakhstan;;;;;;;;;;;;x
-integrate_kazakhstan_desc;With the central states in Asia under our control, the only one remaining is Kazakhstan. It's time we make it an integral part of Russia.;;;;;;;;;;;;x
+integrate_kazakhstan_desc;Gradual decline, disintegration and accession of Kazakh territories into $COUNTRY$ began in the mid-18th and ended in the second part of the 19th century. By the mid-18th century, as a result of long-lasting armed conflicts with Dzungars and Oirats, the Kazakh Khanate had started to decline and further disintegrate into three Jüzes, which formerly constituted the Kazakh Khanate in a confederate form.\n\$COUNTRY_ADJ$ colonial policies/strategies brought military fortresses, lots of settlements, and externally imposed rules into Kazakh lands. A series of laws were introduced by the Russian Empire, abolishing local indigenous government in the form of Khan rule, instituting segregative settlement policies, asserting effective $COUNTRY_ADJ$ rule over the region.;;;;;;;;;;;;x
 greater_tibet_title;Greater Tibet;;;;;;;;;;;;x
 greater_tibet_desc;The Tibetan Empire once ruled a vast land that was taken away from us by the barbarians. The Tibetan people still live in these lands and the time has come for us the claim whats historically ours.;;;;;;;;;;;;x
 reorganize_timor_title;Reorganize Timor;;;;;;;;;;;;x

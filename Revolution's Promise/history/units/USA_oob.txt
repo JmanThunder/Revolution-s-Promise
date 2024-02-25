@@ -116,6 +116,41 @@ SPU = {
 	influence_value = 0
 }
 
+CHK = {
+	value = -50	 #relation
+	level = 0		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+DAI = {
+	value = -50	 #relation
+	level = 0		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+SIA = {
+	value = -100	 #relation
+	level = 0		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+LUA = {
+	value = -50	 #relation
+	level = 0		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+CAM = {
+	value = -50	 #relation
+	level = 0		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+MSK = {
+	value = 0
+	level = 1
+	influence_value = 0
+}
 
 #Other GP's
 ENG = { value = 50 }

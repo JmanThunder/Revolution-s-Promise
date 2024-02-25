@@ -1,6 +1,5 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = BEL
+controller = BEL
 add_core = BEL
 add_core = NET
 add_core = WLL

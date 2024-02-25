@@ -35,41 +35,41 @@
 	farmers = {
 		culture = estonian
 		religion = protestant
-		size = 34425
+		size = 30425
 	}
 
 	aristocrats = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 375
 	}
 
 	bureaucrats = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 75
 	}
 
 	officers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 125
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
-		size = 825
+		size = 4825
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
@@ -173,8 +173,8 @@
 	}
 
 	aristocrats = {
-		culture = russian
-		religion = orthodox
+		culture = north_german
+		religion = protestant
 		size = 800
 	}
 
@@ -205,31 +205,31 @@
 #Parnu (92000/23000 POPS)  
 351 = {
 	aristocrats = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 900
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 	
 	farmers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
@@ -261,31 +261,31 @@
 #Tartu/Dorpat (156000/39000 POPS)  
 352 = {
 	aristocrats = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
-		size = 550
+		size = 4550
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 	
 	farmers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
@@ -311,7 +311,7 @@
 	farmers = {
 		culture = estonian
 		religion = protestant
-		size = 34500
+		size = 30500
 	}
 
 	clergymen = {
@@ -341,33 +341,62 @@
 #Kuressaare (16000/4000 POPS)  
 353 = {
 	aristocrats = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 80
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 	
 	farmers = {
-		culture = volga_german
+		culture = north_german
 		religion = protestant
 		size = 100
+	}
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 40
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 50
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 50
 	}
 
 	clergymen = {
@@ -391,7 +420,7 @@
 	farmers = {
 		culture = estonian
 		religion = protestant
-		size = 3225
+		size = 3000
 	}
 
 }

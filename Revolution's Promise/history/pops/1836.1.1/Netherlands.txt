@@ -599,3 +599,72 @@
 		size = 1034
 	}
 }
+#Venlo(164200/41050 POPS)
+3313 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 30
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 40
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 410
+	}
+	
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 110
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 3200
+	}
+	
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 80
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 110
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 110
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 8000
+	}
+}
+

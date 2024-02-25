@@ -1,6 +1,6 @@
 capital = 619
 primary_culture = south_german
-culture = siebenburger
+culture = north_german
 religion = catholic
 government = absolute_monarchy
 plurality = 10.0
@@ -48,6 +48,7 @@ decision = slovene_rename_aus
 decision = banat_rename_aus
 decision = vojvodina_rename_aus
 decision = istria_rename_aus
+decision = lika_rename_aus
 decision = southern_transylvania_rename_aus
 decision = northern_transylvania_rename_aus
 decision = slovakia_rename_aus
@@ -64,6 +65,10 @@ decision = slavonia_rename_aus
 decision = dalmatia_rename_aus
 decision = german_lombardy
 decision = german_veneto
+decision = bukovina_rename_aus
+decision = burgenland_rename
+decision = car_ukr_rename_aus
+decision = sou_slv_rename_aus
 
 ruling_party = AUS_conservative
 upper_house = {

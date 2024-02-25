@@ -1,4 +1,37 @@
 #Galicia-Asturias Region (1572000)
+#Rubias (796000/199000 POPS)
+3325 = {
+	clergymen = {
+		culture = galician
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = galician
+		religion = catholic
+		size = 20
+	}
+        artisans = {
+		culture = galician
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = galician
+		religion = catholic
+		size = 100
+	}
+        farmers = {
+		culture = spanish
+		religion = catholic
+		size = 40
+	}
+        farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 10
+	}
+}
 #La Coruna (796000/199000 POPS)
 474 = {
 	aristocrats = {
@@ -2213,6 +2246,58 @@
 		culture = spanish
 		religion = catholic
 		size = 47025
+	}
+
+}
+
+#Olivenza
+3287 = {
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 2000
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 9000
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 300
+	}
+
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 500
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 250
+	}
+
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 100
 	}
 
 }

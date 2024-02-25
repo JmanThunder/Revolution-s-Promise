@@ -2332,7 +2332,7 @@
 	soldiers = {
 		culture = kanuri
 		religion = sunni
-		size = 2000
+		size = 4000
 	}
 
 	farmers = {

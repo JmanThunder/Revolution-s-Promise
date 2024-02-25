@@ -315,7 +315,7 @@
 	farmers = {
 		culture = slovak
 		religion = catholic
-		size = 20300
+		size = 16937
 	}
 	
 	serfs = {
@@ -327,7 +327,7 @@
 	serfs = {
 		culture = slovak
 		religion = catholic
-		size = 32000
+		size = 24000
 	}
 
 	aristocrats = {
@@ -369,7 +369,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 16937 
+		size = 28300 
 	}
 
 	clergymen = {
@@ -603,7 +603,7 @@
 	farmers = {
 		culture = slovak
 		religion = catholic
-		size = 29875 
+		size = 27875 
 	}
 
 	aristocrats = {
@@ -645,7 +645,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 19166  
+		size = 21166  
 	}
 
 	clergymen = {
@@ -840,5 +840,61 @@
 		culture = ukrainian
 		religion = orthodox
 		size = 4000
+	}
+}
+#Jablonka (160400/40100 POPS)
+3310 = {
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 25
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 100 
+	}
+	
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 2500    
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 100 
+	}
+	
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 1500    
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 100 
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25 
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50    
 	}
 }

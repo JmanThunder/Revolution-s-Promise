@@ -639,31 +639,31 @@
 2585 = {
 
 	aristocrats = {
-		culture = maghrebi
+		culture = bedouin
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = maghrebi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = maghrebi
+		culture = bedouin
 		religion = sunni
 		size = 150
 	}
 	
 	soldiers = {
-		culture = maghrebi
+		culture = bedouin
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = maghrebi
+		culture = bedouin
 		religion = sunni
 		size = 1650
 	}

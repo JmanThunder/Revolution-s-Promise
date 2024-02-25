@@ -77,7 +77,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 5900
+		size = 28900
 	}
 	
 	soldiers = {
@@ -113,7 +113,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 34005
+		size = 10505
 	}
 	
 	soldiers = {
@@ -143,7 +143,7 @@
 	farmers = {
 		culture = sephardic
 		religion = jewish
-		size = 3850
+		size = 4350
 	}
 }
 #Polygyros (100000/25000 POPS) #now part of Greece
@@ -303,7 +303,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 15650
+		size = 23650
 	}
 	
 	aristocrats = {
@@ -339,7 +339,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 28675
+		size = 20675
 	}
 
 	artisans = {
@@ -373,7 +373,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 33100
+		size = 26100
 	}
 	
 	soldiers = {
@@ -397,7 +397,13 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 4800
+		size = 11800
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 2000
 	}
 
 	aristocrats = {
@@ -433,7 +439,13 @@
 	farmers = {
 		culture = greek
 		religion = sunni
-		size = 7000
+		size = 4000
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = sunni
+		size = 3000
 	}
 }
 #Grevena (140000/35000 POPS) #now part of Greece
@@ -459,7 +471,13 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 41550
+		size = 31550
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 11550
 	}
 
 	aristocrats = {
@@ -515,7 +533,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 33125
+		size = 23125
 	}
 
 	clergymen = {
@@ -539,7 +557,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 3800
+		size = 12800
 	}
 
 	aristocrats = {
@@ -569,7 +587,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 4975
+		size = 5975
 	}
 }
 #Epirus Region (724000) #see Albania.txt for balance of region 
@@ -909,7 +927,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 33350
+		size = 17350
 	}
 	
 	soldiers = {
@@ -933,7 +951,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 2550
+		size = 16950
 	}
 }
 #Dedeagatch (72000/18000 POPS)
@@ -965,7 +983,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 9900
+		size = 8900
 	}
 	
 	soldiers = {
@@ -989,7 +1007,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 27450
+		size = 19450
 	}
 	
 	soldiers = {
@@ -1013,7 +1031,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 3625
+		size = 12625
 	}
 }
 #Thessaly Region (408000)  
@@ -1260,6 +1278,18 @@
 		religion = orthodox
 		size = 40175
 	}
+	
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 250
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 1075
+	}
 }
 #Amfissa (76000/19000 POPS)
 835 = {
@@ -1424,6 +1454,18 @@
 		culture = greek
 		religion = orthodox
 		size = 9100
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 250
 	}
 }
 #Kalamai (68000/17000 POPS)

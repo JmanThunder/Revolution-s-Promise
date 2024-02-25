@@ -1,5 +1,5 @@
-owner = CPL
-controller = CPL
+owner = RUS
+controller = RUS
 add_core = CPL
 add_core = POL
 trade_goods = cattle

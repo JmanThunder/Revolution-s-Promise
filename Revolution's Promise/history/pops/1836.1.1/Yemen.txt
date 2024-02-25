@@ -518,3 +518,30 @@
 	}
 
 }
+
+#Seiyun
+3273 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 10
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+	
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 3300
+	}
+}

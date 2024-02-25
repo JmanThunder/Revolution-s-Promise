@@ -30,6 +30,7 @@ school_reforms = no_schools
 
 
 set_country_flag = protestant_country
+set_country_flag = exempt_from_vassal_contribution
 
 #New Reforms
 conscription = no_draft

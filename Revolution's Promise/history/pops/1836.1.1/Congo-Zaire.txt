@@ -233,7 +233,7 @@
 	}
 
 	slaves = {
-		culture = kavango
+		culture = south_forest_bantu
 		religion = animist
 		size = 17300
 	}

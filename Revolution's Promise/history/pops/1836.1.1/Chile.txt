@@ -875,3 +875,72 @@
 	}
 
 }
+#Taltal 
+3299 = {
+	aristocrats = {
+		culture = aimara
+		religion = catholic
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = aimara
+		religion = catholic
+		size = 25
+	}
+
+	officers = {
+		culture = aimara
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = aimara
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = aimara
+		religion = catholic
+		size = 300
+	}
+
+	soldiers = {
+		culture = aimara
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = aimara
+		religion = catholic
+		size = 400
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = catholic
+		size = 5000
+	}
+}
+

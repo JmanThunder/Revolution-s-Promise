@@ -29,7 +29,7 @@
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 2725
+		size = 3725
 	}
 }
 #Bahrain Region (28000) #see Saudi Arabia.txt for balance of region  
@@ -201,7 +201,7 @@
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 3650
+		size = 3050
 	}
 
 	slaves = {
@@ -248,4 +248,36 @@
 		size = 300
 	}
 
+}
+#Liwa
+12 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 5
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 15
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 925
+	}
 }

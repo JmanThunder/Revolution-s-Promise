@@ -21,7 +21,7 @@ germanic = {
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
 	}
 	south_german = {
-		color = { 140 110 110 } #{ 110 80 80 }
+		color = { 90 60 60 } #{ 110 80 80 }
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
 		Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
 		Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
@@ -178,7 +178,7 @@ beneluxian = {
 		Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
 	}
 	wallonian = { 
-		color = { 190 90 20}
+		color = { 60 35 140 }
 		first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant 
 		Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges 
 		Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-François Jean-Louis 
@@ -202,7 +202,7 @@ pan_swiss = {
 	leader = european
 	unit = EuropeanGC
 	swiss_french = { 
-		color = { 159 143 234 }
+		color = { 160 145 235 }
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
 		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
@@ -216,7 +216,7 @@ pan_swiss = {
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}	
 	swiss_german = {
-		color = { 130 100 80 }
+		color = { 90 60 60 }
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
 		Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
 		Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
@@ -230,7 +230,7 @@ pan_swiss = {
 		"von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
 	}
 	swiss_italian = { 
-		color = { 150 220 170 }
+		color = { 90 210 130 }
 		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
 		Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
 		Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
@@ -264,7 +264,7 @@ scandinavian = {
 	leader = european
 	unit = SwedishGC
 	swedish = { 
-		color = { 20 40 160}
+		color = { 25 25 125 }
 		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
 		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
 		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
@@ -276,7 +276,7 @@ scandinavian = {
 		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
 	}
 	danish = {
-        color = { 220 40 40}
+        color = { 155 0 90 }
         first_names = { Aage Adam Albert Anders Asmund Axel Bent Carl Charles Christen Christian Edvard Edvin
         Enevold Erik Ernst Folke Frederik Georg Gregers Gunnar Gustav Hagbard Hannibal Hans Harald Henrik Herman Hugo Ivar Immanuel
         Jacob Jens Johan Johannes Julius Knud Ludvig Magnus Michael Niels Olav Otto Osvald Oktavius
@@ -288,7 +288,7 @@ scandinavian = {
         Stemman Suenson "Suzannet de la Forest" Thygeson Trampe Urne "von Glücksburg" "von Holstein" "von Oldenburg" Wedel-Heinen Zytphen-Adeler }
 	}
 	norwegian = { 
-		color = { 140 20 140}
+		color = { 120  165  190 }
 		first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
 		Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
 		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
@@ -317,7 +317,7 @@ scandinavian = {
 		radicalism = 5
 	}
 	sami = {
-		color = { 60 180 110}
+		color = { 150 125 175 }
 		first_names = {
 			Asllak Biejas Dure Erke Hanno Iskko Joha Laras Markkos Mikko Niillas Osku Uhkku
 		}
@@ -331,7 +331,7 @@ british = {
 	leader = european
 	unit = BritishGC
 	british = {
-		color = { 207 20 43}
+		color = { 195 0 0 }
 		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
 		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
 		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
@@ -357,7 +357,7 @@ british = {
 		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
 	}
 	scottish = { 
-		color = { 0 71 182 }
+		color = { 0 70 180 }
 		radicalism = 5
 		first_names = { Alan Alastair Alban Alpin Andrew Angus Aulay Blane Boyd Calum Clyde Coll Derek Donald Donnan Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
 		
@@ -365,7 +365,7 @@ british = {
 	}
 	
 	welsh = { 
-		color = { 000 171 057 }
+		color = { 0 170 60 }
 		first_names = { Alwyn Alastair Alban Alpin Caradog Angus Aulay Blane Boyd Calum Cynog Coll Derek Donald Derwyn Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
 		
 		last_names = { Ace Adams Anwyl Baugh Benbow Campbell Cadwalader Clocker Craddock Faithfull Foulkes Gethin Griffiths Gwyther Hathaway Heilyn Humphreys Ithell Llewelyn Llywarch Phillips Salusbury Smout Trewent Wigley Yorath }
@@ -390,7 +390,7 @@ italian = {
 		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
 	}
 	south_italian = {
-		color = { 40 150 90}
+		color = { 90 210 130 }
 		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
 		Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
 		Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -480,7 +480,7 @@ iberian = {
 		Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
 	}
 	portuguese = {
-		color = {160 220 30}
+		color = { 60 160 100}
 		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino 
 		Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
 		Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando 
@@ -529,7 +529,7 @@ french = {
 		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
 	}
 	picard = { 
-		color = {100 110 136}
+		color = {100 110 135 }
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
 		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
@@ -567,7 +567,7 @@ french = {
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
 	arpitan = { 
-		color = { 159 143 234 }
+		color = { 160 145 235 }
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
 		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
@@ -602,7 +602,7 @@ south_slavic = {
 		}
 	}
 	serb = {
-		color = {150 65 80}
+		color = { 140 0 0 }
 		first_names = { Alaksandar Blagoje Bozidar Branko Danilo Dejan Djordje Dragan Dragisa Dragoljub
 		Dragutin Draza Dusan Gavrilo Goran Janko Jovan Koca Kosta Krsto
 		Ljubisa Mihailo Milan Miliutin Milivoje Milojko Milos Miodrag Mirko Miroslav
@@ -619,7 +619,7 @@ south_slavic = {
 		radicalism = 15
 	}
 	bulgarian = {
-		color = {65 150 100}
+		color = {60 125 100}
 		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
 		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
 		Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
@@ -635,15 +635,8 @@ south_slavic = {
 		}
 		radicalism = 10
 	}
-	montenegrin = {
-		color = {196 47 55}
-		first_names = { Akso Ananije Andro Anto Arsenije Arso Baco Bajo Bakoc Blagota Blagoš Blažija Blažo Brajuško Crnoje Cedo Danilo Danko Davor Diko Dinjo Dmitar Emilo Gajo Gašo Gavro Ignjatije Iliko Ilko Jakša Janko Jevrem Kenjo Kicun Kiro Krsto Labud Lagota Laketa Maksim Maljota Markic Markiša Najdan Nenoje Nikac Obren Orle Pajo Panto Pejo Radan Radava Savan Savic Sekule }
-
-		last_names = { Andrijaševic  Balic Bjelica Bjelogrlic Bulic Buric Cabarkapa Cetkovic Ðakonovic Damjanac Delic Ðokovic Ðukanovic Dožic Drincic Drobnjak Ðurišic Filipovic Ivanovic Jovanovic Kankaraš Kneževic Kovacevic Krivokapic Kujovic Lambulic Lazovic Lompar Martinovic Perovic Petrovic Plamenac Popovic Radoncic Radonjic Radulovic Raicevic Rastoder Rolovic Šiljak Simovic Stefanovic  Vucevic Vucinic Vujacic Vujadinovic Vujoševic Vujovic Vukcevic Vukotic }
-		radicalism = 15
-	}
 	slovene = {
-		color = {0 90 128}
+		color = {0 90 125}
 		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
 		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
 		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
@@ -680,7 +673,7 @@ pan_albanian = {
 	leader = european
 	unit = AustriaHungaryGC
 	albanian = {
-		color = {140 0 0}
+		color = { 180  70  105 }
 		first_names = { Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem
 		Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene
 		Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Lekë
@@ -702,7 +695,7 @@ pan_romanian = {
 	leader = european
 	unit = AustriaHungaryGC
 	romanian = {
-		color = {240 240 140}
+		color = { 255 195 35 }
 		first_names = { Adrian Alexandru Andrei Anton Artur Bogdan Carol Cezar Constantin Constin
 		Cosmin Daniel Dumitru Emanuel Eremia Eugen Ferdinand Flaviu Florea Gheorghe
 		Grigore Henric Horatiu Iacob Ilie Ioan Ion "Ion Emanuel" Iosif Iulian
@@ -726,7 +719,7 @@ hungarian_culture_group = {
 		unit = AustriaHungaryGC
 		
 	hungarian = {
-		color = {180 255 120}
+		color = { 225 255 195 }
 		first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
 		Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
 		György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -1214,6 +1207,21 @@ iranian_turanian = {
 			Shirazi Tabrizi Tahmasebi Zahedi
 			}
 	}
+	lurish = {
+		color = {90 140 230}
+		first_names = {
+			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
+			Mahmoud Massoud Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
+			"Naser ed-Din" Nosret Reza
+			}
+		last_names = {
+			Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani 
+			Jahanbani Kashani Khan Khuzai
+			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
+			Shirazi Tabrizi Tahmasebi Zahedi
+			}
+	}
 	uzbek = {
 		color = {152 67 56}
 		first_names = {
@@ -1622,6 +1630,16 @@ southeast_asian = {
                
 		}
 	}
+	khmu = {
+		color = {160 60 90}
+		first_names = { Manthaturath Anurutha Unkeo Sukha Chantha Unkham Sakkarin Sisavang Setthathirath Nanthasen Ong Phraya Ang Sisowath Norodom Pok Satha Thommo
+			
+		}
+		
+		last_names = { Vong Kuman Söm Bun Supho Long Intharavong Anuvong Eng Chan Em Snguon Mey Reachea Tong Non
+               
+		}
+	}
 	malay = {
 		color = {85 78 89}
 		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz
@@ -1660,6 +1678,14 @@ southeast_asian = {
 		
 		last_names = { Leiwakabessy Mainaky Weisapy Bouma Palyama Pattinama Pelmelay Lilipaly Hafiedz
                
+		}
+	}
+	dayak = {
+		color = {191 187 147}
+		first_names = { Raden Libau Kalong Temenggong Tun Datuk Empu Bikukng Pancur Tanjung
+		}
+		
+		last_names = { "Demang Behe" Bawin Rentap Ningkan Jugah "Jugah anak Barieng" Kanang "Kanang anak Langkau" Porikng Sembore Tiung Geremeng  
 		}
 	}
 	thai = {
@@ -2674,13 +2700,6 @@ central_african = {
 		last_names = { Chokwe Lovale Balovale Nsongo }
 	}
 	
-	kavango = {
-		color = {76 34 120}
-		first_names = { Kalembe	Kalembele Kambangaji Lundembe Ndembe Ngulu Tulembele Tumbangaji	 }
-
-		last_names = { Chokwe Lovale Balovale Nsongo }
-	}
-	
 	mongo = {
 		color = {162 175 65}
 		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
@@ -2882,14 +2901,6 @@ east_african = {
 		last_names = { Ibrahim Adeer Hassan  Gurey Hirsi Doreh Dekiye Afrah Mujahid Kenadid
 		}
 	}
-	sukuma = {
-		color = {54 167 122} 
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Mnywasele Mkasiwa Mirambo Msemwa Bulungute Mudimbe 
-		}
-	}
 	swahili = {
 		color = {84 96 204}
 		first_names = { Ahmed Jabari Kamari Amiri  Asani Babu Balozi Darweshi Erevu Faraji Fupi Heri Hishima Ibada Huru Husani Imara Issa Jahidi Jalali Juma Jumaane Kafeel Khamisi Kifimbo Kivuli Kondo Lumbwi Machupa Mbwana Mosi Salehe Safi Zuberi
@@ -2904,22 +2915,6 @@ east_african = {
 		}
 
 		last_names = { Teklehaymanot Seyoum Woldetinsae Yohannes Sehul Yessous Hagos Alula Mengesha
-		}
-	}
-	unyamwezi = {
-		color = {46 146 246}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Mnywasele Mkasiwa Mirambo Msemwa Bulungute Mudimbe 
-		}
-	}
-	kilombero = {
-		color = {96 106 66}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { Mnywasele Mkasiwa Mirambo Msemwa Bulungute Mudimbe 
 		}
 	}
 	lacustrine_bantu = {
@@ -2988,14 +2983,6 @@ southern_african = {
 		}
 
 		last_names = { Muhsini Camakama Mugosirima "Bwana Mkuu" Usufu "Musa Quanto" "Bari Bwana"
-		}
-	}
-	makua = {
-		color = {94 156 82}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
-
-		last_names = { "Muhammad Raja" Muhammad Raja Uthman Usufu Mukusedi Molidi "Umkubu Muntu" Marave "Ali Ibrahimu"
 		}
 	}
 	malagasy = {
