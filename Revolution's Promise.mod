@@ -1,0 +1,6 @@
+name = "Revolution's Promise"
+path = "mod/Revolution's Promise"
+user_dir = "Revolution's Promise"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
