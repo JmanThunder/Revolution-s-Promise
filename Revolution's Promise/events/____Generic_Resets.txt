@@ -1,0 +1,95 @@
+country_event = { # Reset Loc
+    id = 4000
+    title = "Clear Dynamic Loc"
+    desc = "Resets Dynamic Loc"
+    picture = "commonwealth"
+	allow_multiple_instances = yes
+    is_triggered_only = yes
+	
+	immediate = {
+		slots = { secede_province = THIS }
+		slots = { state_scope = { change_region_name = "" } }
+		slots = { secede_province = QQQ }
+	}
+	
+	option = {
+        name = "Change the Name"
+    }
+}
+
+country_event = { # Reset Loc Long
+    id = 4001
+    title = "Clear Dynamic Loc with Insert"
+    desc = "Resets Dynamic Loc but with the average space of a Country Name"
+    picture = "commonwealth"
+	allow_multiple_instances = yes
+    is_triggered_only = yes
+	
+	immediate = {
+		slots = { secede_province = THIS }
+		slots = { state_scope = { change_region_name = "§b            §!" } }
+		slots = { secede_province = QQQ }
+	}
+	
+	option = {
+        name = "Change the Name"
+    }
+}
+
+country_event = { # Reset Loc
+    id = 203
+    title = "Clear Dynamic Loc with Insert"
+    desc = "Resets Dynamic Loc but with the average space of a Country Name"
+    picture = "commonwealth"
+	allow_multiple_instances = yes
+    is_triggered_only = yes
+	
+	immediate = {
+		any_land_province = {
+			remove_province_modifier = option_modifier_1
+			remove_province_modifier = option_modifier_2
+			remove_province_modifier = option_modifier_3
+			remove_province_modifier = option_modifier_4
+			remove_province_modifier = option_modifier_5
+			remove_province_modifier = option_modifier_6
+			remove_province_modifier = option_modifier_7
+			remove_province_modifier = option_modifier_8
+			remove_province_modifier = option_modifier_9
+			remove_province_modifier = option_modifier_10
+			remove_province_modifier = option_modifier_11
+			remove_province_modifier = option_modifier_12
+			remove_province_modifier = option_modifier_13
+			remove_province_modifier = option_modifier_14
+			remove_province_modifier = option_modifier_15
+			remove_province_modifier = option_modifier_16
+			remove_province_modifier = option_modifier_17
+			remove_province_modifier = option_modifier_18
+			remove_province_modifier = option_modifier_19
+			remove_province_modifier = option_modifier_20
+			remove_province_modifier = option_modifier_21
+			remove_province_modifier = option_modifier_22
+			remove_province_modifier = option_modifier_23
+			remove_province_modifier = option_modifier_24
+			remove_province_modifier = option_modifier_25
+			remove_province_modifier = option_modifier_26
+			remove_province_modifier = option_modifier_27
+			remove_province_modifier = option_modifier_28
+			remove_province_modifier = option_modifier_29
+			remove_province_modifier = option_modifier_30
+			remove_province_modifier = option_modifier_31
+			remove_province_modifier = option_modifier_32
+			remove_province_modifier = option_modifier_33
+			remove_province_modifier = option_modifier_34
+			remove_province_modifier = option_modifier_35
+			remove_province_modifier = option_modifier_36
+			remove_province_modifier = option_modifier_37
+			remove_province_modifier = option_modifier_38
+			remove_province_modifier = option_modifier_39
+			remove_province_modifier = option_modifier_40
+		}
+	}
+	
+	option = {
+        name = "Change the Name"
+    }
+}
