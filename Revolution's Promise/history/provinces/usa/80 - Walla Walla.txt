@@ -1,7 +1,6 @@
-owner = USA
-controller = USA
+owner = RPL
+controller = RPL
 add_core = COL
-add_core = USA
 trade_goods = grain
 terrain = wallawalla
 life_rating = 35

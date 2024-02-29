@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = SPA
+controller = SPA
 add_core = POR
 trade_goods = fruit
 terrain = porto
