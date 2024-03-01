@@ -3650,13 +3650,63 @@ african_diaspora_cultures = {
             Cincinnatus Dantès Demesvar Denys Emmanuel Eugène Fabre Faustin Florvil François
             Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
             Léon Louis Louis-Eugène Louis-Joseph Lysius Michel Monpoint Nissage Nord Oreste
-            Philippe Pierre Simon Sténio Sylvain Tandredè Thomas Timoleón Tirésias Vilbrum }
+            Philippe Pierre Simon Sténio Sylvain Tandredè Thomas Timoleón Tirésias Vilbrum
+            Abèdnego Abner Acelhomme Alain Alexandre Alphonse Amos Anderson Alexis-André Antoine Aristhène Arsène Athanase Augustin
+            Baptiste Bernard Bertrand Boniface Bonivert Bossuet Bourmond Brunel
+            Camille Charlemagne Charles Charles-Henri Christophe Clébert Clairvius Claude Claudel Claudin Clément Clotaire
+            Damase Daniel Dantès David Davidson Déjean Decius Delius Denis Didier Dieudonné Dieufort Dieujuste Dieumaître Dieuseul Dominique Donald Dortilus Dumas Dumarsais
+            Édouard Élie Élysée Émile Éric Ésaïe Ésaü Étienne-Paschal Ézéchiel Edgard Edmond Edrick Edwin Emmanuel Enel Enock Enold Ernso Ernst Eugène Evens
+            Fabrice Faubert Faustin Faustin-Élie Félicité Félius Félix Fernand Firmin Florvil Francique Franck Franck-Étienne Francklin Francoeur Frantz Fritz Fritz-Gérald Fritz-William
+            Gabriel Gaetjens Gary Georges Gérald Géraldine Gervais Gerson Gesner Gilbert Gilles Golman Gustave Guy
+            Hérold Hector Henri Henri-Robert Hertz Hervé Hilaire Hugues
+            Ignace Innocent Ismaël Israël
+            Jérémie Jérôme Jacques Jameson Jean Jean-Baptiste Jean-Bart Jean-Bélony Jean-Bertrand Jean-Claude Jean-Fernand Jean-Frantz Jean-Fritz Jean-Guy Jean-Hector Jean-Henri Jean-Jacques Jean-Jules Jean-Louis Jean-Marc Jean-Marcel Jean-Marie Jean-Max Jean-Michel Jean-Nicolas Jean-Philippe Jean-Pierre Jean-René Jean-Robens Jean-Robert Jean-Roland Jean-Ronald Jean-Yves Jephté Joël Jodelin Jonathan Jonel Josaphat Joseph Josué Jules Julien Juste Justin Junior Juvenal
+            Laurent Éléonore Levoy Louis Louis-Étienne Louis-Joseph Louis-Marie Louis-Philippe Louissaint Luc Lucien Lyonel Lysius
+            Mécène Mackenson Magloire Mainville-Joseph Manès Manno Marc Marc-Arthur Marc-Charles Marcel Marcelin Mardochée Marius Martial Mathieu Maurice Max Mechack Mercidieu Michel Michel-Ange Michel-Rolph Mickaël Moïse Molière Monès Monferrier Murat
+            Néhémie Neker Nelson Nicolas Noël
+            Obénard Orélien
+            Pascal Patrice Paul Paulson Pétion Peterson Philippe Philistin Philomé Pierre Pierre-Antoine Pierre-Eustache Pierre-Louis Pierre-Michel Pierre-Paul Pierre-Richard Pierre-Théoma Pradel Prosper
+            Réginald Raoul Raphaël Raymond René Renaud Richard Richardson Rigaud Robenson Robert Rochambeau Rochenel Rodrigue Roger Roland Rolph Romain Ronald Rousseau Rulx
+            Sébastien Sadrack Saintilus Salnave Salomon Samson Samuel Sauveur Sénèque Serge Simon Stanley Stéphane Stevenson Sylvain
+            Tancrède Thomas Thomas-Alexandre Thony Thrasybule Timoléon Tirésias Toussaint
+            Ulrick
+            Venel Verdieu Victor
+            Webert Westner Wilbert Wilfrid Wilkens William Wilner Wilson Wislande
+            Yanick Yves Yvon
+            }
 
             last_names = { Alexis Ardouin Auguste Bellegarde Boisrond-Canal Bonnet Borno Boyer Brutus Christophe
             Conzé Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
             Iginac Janvier Jeune Lafontant Laleau Leconte Légitime Legouaze Léon Lhérisson
             Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
-            Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor }
+            Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor
+            "Absalon" "Accilien" "Achille" "Ladéroute" "Adeclat" "Agénor" "Agamisthor" "Aimé" "Alabré" "Alcide" "Alcime" "Alcin" "Alcius" "Alexandre" "Alexis" "Alouidor" "Altéma" "Altidor" "Alzuphar" "Ambroise" "Amilcar" "Anacréon" "André" "Anglade" "Anilus" "Annacius" "Anténor" "Antoine" "Appolon" "Aristide" "Aristil" "Aristilde" "Athis" "Audate" "Augustave" "Auguste" "Augustin" "Aurélien" "Azémar"
+            "Baido" "Bajeux" "Balthazar" "Baptiste" "Baptistin" "Barthélemy" "Bastien" "Batraville" "Bazile" "Beaubrun" "Belizaire" "Beljour" "Bellerive" "Benjamin" "Bernadel" "Bernadin" "Bernard" "Beauplan" "Belneau" "Beneche" "Bernard" "Bien-Aimé" "Bissainthe" "Blaise" "Blanc" "Bloncourt" "Boisrond" "Boucher" "Bonheur" "Bonhomme" "Bontemps" "Borgella" "Borno" "Bourjolly" "Boursiquot" "Boyer" "Bréda" "Brignol" "Brunvil" "Brutus" "Bussière" 
+            "Céant" "Célestin" "Célicourt" "Cénatus" "Cétout" "Cadet" "Cajou" "Cajuste" "Calixte" "Calvaire" "Cambronne" "Camilien" "Camille" "Cantave" "Carius" "Carrénard" "Casimir" "Cassagnol" "Cassamajor" "Casseus" "Castor" "César" "Chérestal" "Chéry" "Charles" "Charles-Pierre" "Charlestin" "Charlotin" "Chassagne" "Chavannes" "Cherenfant" "Cherisca" "Cherizard" "Chevry" "Chouloute" "Chrysostome" "Cicéron" "Cinéas" "Cintellus" "Cius" "Civil" "Civilus" "Clérismé" "Cleophat" "Clergé" "Clermont" "Clerveaux" "Clervil" "Coicou" "Coidavid" "Colas" "Colimon" "Compère" "Constant" "Coquillon" "Corrielus" "Corriolan" "Coulanges" "Cupidon" "Cyprien"
+            "Daguerre" "Dalzon" "Damestoir" "Daniel" "Darcelin" "Darius" "Dartiguenave" "Davezac" "David" "Davilmar" "Débrosse" "Décembre" "Décimus" "Démosthène" "Dérival" "Désinor" "Désulmé" "Debréus" "Decius" "Dejean" "Delahaye" "Delva" "Denis" "Dera" "Deronvil" "Dervilus" "Desamour" "Desauguste" "Descorbettes" "Deshommes" "Desmangles" "Desmarattes" "Désir" "Desravines" "Desrosiers" "Desruisseaux" "Dessalines" "Dessin" "Dessources" "Destiné" "Desulma" "Desvarieux" "Dieufils" "Dieujuste" "Dodard" "Domingue" "Dominique" "Dorélien" "Dorcé" "Dorcély" "Dorcelian" "Dorcelus" "Dorestant" "Doriscar" "Dorlén" "Dorlusca" "Dorsaint" "Dorsainvil" "Dorsinville" "Dorvelus" "Dorvil" "Dossous" "Douillard" "Ducasse" "Dulorier" "Dumornay" "Duperval" "Duplan" "Dutervil"
+            "Édouard" "Étienne" "Évariste" "Edmond" "Eliacin" "Eliassaint" "Eliazaire" "Estimé" "Estimable" "Estiverne" "Estimé" "Exantus" "Exavier" "Exil" "Exilus" "Exumé"
+            "Félix" "Félizor" "Fénélon" "Férou" "Fabien" "Fabius" "Fanfan" "Felissaint" "Ferdinand" "Fièvre" "Fignolé" "Fils-Aimé" "Fleuridor" "Fleurimond" "Fleurisca" "Florestal" "Florvil" "Florvilus" "Fombrun" "Fontilus" "Fontus" "Fortilus" "Fortuné" "Frédéric" "Frémon" "Françillon" "François" "Francisque"
+            "Gaëtan" "Gabriel" "Garçon" "Gardère" "Garoute" "Garraud" "Gédéon" "Gélin" "Généus" "Gérôme" "Geffrard" "Georges" "Germain" "Gilles" "Glezil" "Guervil" "Guillaume" "Guirand" "Gustave"
+            "Hérard" "Henri" "Honoré" "Honorat" "Horacius" "Hudicourt" "Hyppolite"
+            "Iléus" "Inginac" "Innocent" "Isaac" "Israël" "Izméry"
+            "Jacques" "Janvier" "Jason" "Jean" "Jean-Baptiste" "Jean-Bart" "Jean-François" "Jean-Jacques" "Jean-Louis" "Jean-Mary" "Jean-Michel" "Jean-Paul" "Jean-Philippe" "Jean-Pierre" "Jeanty" "Jérôme" "Jeudy" "Jeune" "Joachim" "Joazard" "Jolicoeur" "Jonassaint" "Joseph" "Jourdain" "Jules" "Julien" "Justilien"
+            "Kébreau" "Kernizan"
+            "Léger" "Légitime" "Lévêque" "Labuchin" "Lachenais" "Lafaille" "Lafalaise" "Laferrière" "Lafleur" "Laforest-Courtois" "Laguerre" "Laleau" "Lamarre" "Lamartiniére" "Lamothe" "Lamour" "Laraque" "Latortue" "Laurent" "Laurore" "Lauture" "Lavaud" "Laventure" "Lazarre" "LeConte" "Legagneur" "Leremboure" "Lhérisson" "Ligondé" "Lindor" "Lorinska" "Lormeus" "Loubeau" "Louima" "Louis" "Louis-Charles" "Louis-Jean" "Louis-Jeune" "Louissaint" "Louverture" "Lubin" "Luc"
+            "Lucien" "Luders"
+            "Ceus" "Luxama"
+            "Maître" "Macelus" "Macena" "Magloire" "Mahotière" "Maignan" "Malebranche" "Malval" "Manigat" "Marc" "Marcel" "Marcelin" "Marcelus" "Marcellus" "Marecharles" "Mars" "Marseille" "Martelly" "Massénat" "Massillon" "Mathieu" "Mathurin" "Maximilien" "Mayard" "Méhu" "Mérisier" "Mésidor" "Métayer" "Métellus" "Menelas" "Mentor" "Mercéus" "Merilus" "Mervilus" "Michel" "Milfort" "Milien" "Mirville" "Moïse" "Mocombe" "Mombrun" "Momplaisir" "Mompremier" "Mondésir" "Mondestine" "Monestime" "Monnéus" "Morisseau" "Morland" "Mourra" "Moussignac" 
+            "Néré" "Namphy" "Narcisse" "Nemour" "Nemours" "Nerestant" "Nicolas" "Noël" "Nordé" "Normil" "Norvilus" "Norzelin""Numa"
+            "Obas" "Obin" "Occéan" "Ogé" "Olibrice" "Olivier" "Orélien" "Orcel" "Orelus" "Oreste" "Osias" "Ostine"
+            "Péralte" "Pétigny" "Pétion" "Paillant" "Pascal" "Paul" "Pauléus" "Pavilus" "Payen" "Petit-Frère" "Petit-Homme" "Petit-Nord" "Phanor" "Philantus" "Philidor" "Philippe" "Philistin" "Philius" "Philizaire" "Philogène" "Pierre" "Pierre-Antoine" "Pierre-Charles" "Pierre-Jean" "Pierre-Louis" "Pierre-Paul" "Pierrelus" "Pierrot" "Piou" "Placide" "Plaisime" "Pluviôse" "Point du Sable" "Poinvil" "Polycarpe" "Polynice" "Pompilus" "Prédestin" "Préval" "Prévilus" "Presendieu" "Previlma" "Princivil" "Printemps" "Prophète" "Prospère" "Providence" "Pyram"
+            "Raymond" "Rémilien" "Rémy" "Réveil" "René" "Renelus" "Renois" "Riché" "Richemond" "Ridoré" "Rigaud" "Rimpel" "la Rivière" "Romélus" "Romain" "Rouzier"
+            "Séjour" "Sème" "Sénatus" "Sévère" "Saül" "Sabbat" "Sagaille" "Sagesse" "Saget" "Saieh" "Saincilus" "Saint-Albord" "Saint-Amand" "Saint-Ange" "Saint-Armand" "Saint-Aude" "Saint-Brice" "Saint-Cyr" "Saint-Éloi" "Saint-Fleur" "Saint-Fleurant" "Saint-Fleury" "Saint-Fort" "Saint-Germain" "Saint-Hilaire" "Saint-Hillien" "Saint-Juste" "Saint-Lôt" "Saint-Louis" "Saint-Natus" "Saint-Phar" "Saint-Preux" "Saint-Surin" "Saint-Victor" "Saint-Vil" "Saintil" "Saintilma" "Salnave" "Salomon" "Sam" "Sambour" "Sanon" "Sansaricq" "Saturné" "Saurel" "Sénat" "Seide" "Senecharles" "Senexant" "Silien" "Siméon" "Siméus" "Similien" "Simon" "Sincère" "Souffrant" "Soulouque" "Souverain" "Stiverne" "Sylvain"
+            "Télémaque" "Télasco" "Talleyrand" "Telcide" "Telfort" "Telson" "Terlonge" "Théano" "Thélusma" "Thénor" "Théodore" "Théodule" "Théogène" "Theragene" "Thermidor" "Thermilus" "Thermitus" "Thiersaint" "Thoby-Marcelin" "Thomas" "Tilus" "Tingué" "Tippenhauer" "Tonnere-Carrié" "Torchon" "Toussaint" "Toyo" "Trélusca" "Trouillot" "Tunis"
+            "Turenne"
+            "Ulysse"
+            "Védrine" "Val" "Valbrun" "Valcin" "Valescot" "Valmont" "Valville" "Vertus" "Viénot" "Victor" "Vil" "Vilfort" "Villedrouin" "Villefranche" "Villejoin" "Vilmenay" "Vilsaint" "Vital" "Vixamar" "Volcimus" "Volcy" "Volamr" "Voltaire" "Vorbe"  
+            "Wêche"  "Wagnac"
+            "Zamor" "Zamy" "Zidor"
+            }
     }
     mulatto = {
         color = { 30 30 80 }
@@ -3664,13 +3714,63 @@ african_diaspora_cultures = {
             Cincinnatus Dantès Demesvar Denys Emmanuel Eugène Fabre Faustin Florvil François
             Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
             Léon Louis Louis-Eugène Louis-Joseph Lysius Michel Monpoint Nissage Nord Oreste
-            Philippe Pierre Simon Sténio Sylvain Tandredè Thomas Timoleón Tirésias Vilbrum }
+            Philippe Pierre Simon Sténio Sylvain Tandredè Thomas Timoleón Tirésias Vilbrum
+            Abèdnego Abner Acelhomme Alain Alexandre Alphonse Amos Anderson Alexis-André Antoine Aristhène Arsène Athanase Augustin
+            Baptiste Bernard Bertrand Boniface Bonivert Bossuet Bourmond Brunel
+            Camille Charlemagne Charles Charles-Henri Christophe Clébert Clairvius Claude Claudel Claudin Clément Clotaire
+            Damase Daniel Dantès David Davidson Déjean Decius Delius Denis Didier Dieudonné Dieufort Dieujuste Dieumaître Dieuseul Dominique Donald Dortilus Dumas Dumarsais
+            Édouard Élie Élysée Émile Éric Ésaïe Ésaü Étienne-Paschal Ézéchiel Edgard Edmond Edrick Edwin Emmanuel Enel Enock Enold Ernso Ernst Eugène Evens
+            Fabrice Faubert Faustin Faustin-Élie Félicité Félius Félix Fernand Firmin Florvil Francique Franck Franck-Étienne Francklin Francoeur Frantz Fritz Fritz-Gérald Fritz-William
+            Gabriel Gaetjens Gary Georges Gérald Géraldine Gervais Gerson Gesner Gilbert Gilles Golman Gustave Guy
+            Hérold Hector Henri Henri-Robert Hertz Hervé Hilaire Hugues
+            Ignace Innocent Ismaël Israël
+            Jérémie Jérôme Jacques Jameson Jean Jean-Baptiste Jean-Bart Jean-Bélony Jean-Bertrand Jean-Claude Jean-Fernand Jean-Frantz Jean-Fritz Jean-Guy Jean-Hector Jean-Henri Jean-Jacques Jean-Jules Jean-Louis Jean-Marc Jean-Marcel Jean-Marie Jean-Max Jean-Michel Jean-Nicolas Jean-Philippe Jean-Pierre Jean-René Jean-Robens Jean-Robert Jean-Roland Jean-Ronald Jean-Yves Jephté Joël Jodelin Jonathan Jonel Josaphat Joseph Josué Jules Julien Juste Justin Junior Juvenal
+            Laurent Éléonore Levoy Louis Louis-Étienne Louis-Joseph Louis-Marie Louis-Philippe Louissaint Luc Lucien Lyonel Lysius
+            Mécène Mackenson Magloire Mainville-Joseph Manès Manno Marc Marc-Arthur Marc-Charles Marcel Marcelin Mardochée Marius Martial Mathieu Maurice Max Mechack Mercidieu Michel Michel-Ange Michel-Rolph Mickaël Moïse Molière Monès Monferrier Murat
+            Néhémie Neker Nelson Nicolas Noël
+            Obénard Orélien
+            Pascal Patrice Paul Paulson Pétion Peterson Philippe Philistin Philomé Pierre Pierre-Antoine Pierre-Eustache Pierre-Louis Pierre-Michel Pierre-Paul Pierre-Richard Pierre-Théoma Pradel Prosper
+            Réginald Raoul Raphaël Raymond René Renaud Richard Richardson Rigaud Robenson Robert Rochambeau Rochenel Rodrigue Roger Roland Rolph Romain Ronald Rousseau Rulx
+            Sébastien Sadrack Saintilus Salnave Salomon Samson Samuel Sauveur Sénèque Serge Simon Stanley Stéphane Stevenson Sylvain
+            Tancrède Thomas Thomas-Alexandre Thony Thrasybule Timoléon Tirésias Toussaint
+            Ulrick
+            Venel Verdieu Victor
+            Webert Westner Wilbert Wilfrid Wilkens William Wilner Wilson Wislande
+            Yanick Yves Yvon
+            }
 
-        last_names = { Alexis Ardouin Auguste Bellegarde Boisrond-Canal Bonnet Borno Boyer Brutus Christophe
+            last_names = { Alexis Ardouin Auguste Bellegarde Boisrond-Canal Bonnet Borno Boyer Brutus Christophe
             Conzé Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
             Iginac Janvier Jeune Lafontant Laleau Leconte Légitime Legouaze Léon Lhérisson
             Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
-            Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor }
+            Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor
+            "Absalon" "Accilien" "Achille" "Ladéroute" "Adeclat" "Agénor" "Agamisthor" "Aimé" "Alabré" "Alcide" "Alcime" "Alcin" "Alcius" "Alexandre" "Alexis" "Alouidor" "Altéma" "Altidor" "Alzuphar" "Ambroise" "Amilcar" "Anacréon" "André" "Anglade" "Anilus" "Annacius" "Anténor" "Antoine" "Appolon" "Aristide" "Aristil" "Aristilde" "Athis" "Audate" "Augustave" "Auguste" "Augustin" "Aurélien" "Azémar"
+            "Baido" "Bajeux" "Balthazar" "Baptiste" "Baptistin" "Barthélemy" "Bastien" "Batraville" "Bazile" "Beaubrun" "Belizaire" "Beljour" "Bellerive" "Benjamin" "Bernadel" "Bernadin" "Bernard" "Beauplan" "Belneau" "Beneche" "Bernard" "Bien-Aimé" "Bissainthe" "Blaise" "Blanc" "Bloncourt" "Boisrond" "Boucher" "Bonheur" "Bonhomme" "Bontemps" "Borgella" "Borno" "Bourjolly" "Boursiquot" "Boyer" "Bréda" "Brignol" "Brunvil" "Brutus" "Bussière" 
+            "Céant" "Célestin" "Célicourt" "Cénatus" "Cétout" "Cadet" "Cajou" "Cajuste" "Calixte" "Calvaire" "Cambronne" "Camilien" "Camille" "Cantave" "Carius" "Carrénard" "Casimir" "Cassagnol" "Cassamajor" "Casseus" "Castor" "César" "Chérestal" "Chéry" "Charles" "Charles-Pierre" "Charlestin" "Charlotin" "Chassagne" "Chavannes" "Cherenfant" "Cherisca" "Cherizard" "Chevry" "Chouloute" "Chrysostome" "Cicéron" "Cinéas" "Cintellus" "Cius" "Civil" "Civilus" "Clérismé" "Cleophat" "Clergé" "Clermont" "Clerveaux" "Clervil" "Coicou" "Coidavid" "Colas" "Colimon" "Compère" "Constant" "Coquillon" "Corrielus" "Corriolan" "Coulanges" "Cupidon" "Cyprien"
+            "Daguerre" "Dalzon" "Damestoir" "Daniel" "Darcelin" "Darius" "Dartiguenave" "Davezac" "David" "Davilmar" "Débrosse" "Décembre" "Décimus" "Démosthène" "Dérival" "Désinor" "Désulmé" "Debréus" "Decius" "Dejean" "Delahaye" "Delva" "Denis" "Dera" "Deronvil" "Dervilus" "Desamour" "Desauguste" "Descorbettes" "Deshommes" "Desmangles" "Desmarattes" "Désir" "Desravines" "Desrosiers" "Desruisseaux" "Dessalines" "Dessin" "Dessources" "Destiné" "Desulma" "Desvarieux" "Dieufils" "Dieujuste" "Dodard" "Domingue" "Dominique" "Dorélien" "Dorcé" "Dorcély" "Dorcelian" "Dorcelus" "Dorestant" "Doriscar" "Dorlén" "Dorlusca" "Dorsaint" "Dorsainvil" "Dorsinville" "Dorvelus" "Dorvil" "Dossous" "Douillard" "Ducasse" "Dulorier" "Dumornay" "Duperval" "Duplan" "Dutervil"
+            "Édouard" "Étienne" "Évariste" "Edmond" "Eliacin" "Eliassaint" "Eliazaire" "Estimé" "Estimable" "Estiverne" "Estimé" "Exantus" "Exavier" "Exil" "Exilus" "Exumé"
+            "Félix" "Félizor" "Fénélon" "Férou" "Fabien" "Fabius" "Fanfan" "Felissaint" "Ferdinand" "Fièvre" "Fignolé" "Fils-Aimé" "Fleuridor" "Fleurimond" "Fleurisca" "Florestal" "Florvil" "Florvilus" "Fombrun" "Fontilus" "Fontus" "Fortilus" "Fortuné" "Frédéric" "Frémon" "Françillon" "François" "Francisque"
+            "Gaëtan" "Gabriel" "Garçon" "Gardère" "Garoute" "Garraud" "Gédéon" "Gélin" "Généus" "Gérôme" "Geffrard" "Georges" "Germain" "Gilles" "Glezil" "Guervil" "Guillaume" "Guirand" "Gustave"
+            "Hérard" "Henri" "Honoré" "Honorat" "Horacius" "Hudicourt" "Hyppolite"
+            "Iléus" "Inginac" "Innocent" "Isaac" "Israël" "Izméry"
+            "Jacques" "Janvier" "Jason" "Jean" "Jean-Baptiste" "Jean-Bart" "Jean-François" "Jean-Jacques" "Jean-Louis" "Jean-Mary" "Jean-Michel" "Jean-Paul" "Jean-Philippe" "Jean-Pierre" "Jeanty" "Jérôme" "Jeudy" "Jeune" "Joachim" "Joazard" "Jolicoeur" "Jonassaint" "Joseph" "Jourdain" "Jules" "Julien" "Justilien"
+            "Kébreau" "Kernizan"
+            "Léger" "Légitime" "Lévêque" "Labuchin" "Lachenais" "Lafaille" "Lafalaise" "Laferrière" "Lafleur" "Laforest-Courtois" "Laguerre" "Laleau" "Lamarre" "Lamartiniére" "Lamothe" "Lamour" "Laraque" "Latortue" "Laurent" "Laurore" "Lauture" "Lavaud" "Laventure" "Lazarre" "LeConte" "Legagneur" "Leremboure" "Lhérisson" "Ligondé" "Lindor" "Lorinska" "Lormeus" "Loubeau" "Louima" "Louis" "Louis-Charles" "Louis-Jean" "Louis-Jeune" "Louissaint" "Louverture" "Lubin" "Luc"
+            "Lucien" "Luders"
+            "Ceus" "Luxama"
+            "Maître" "Macelus" "Macena" "Magloire" "Mahotière" "Maignan" "Malebranche" "Malval" "Manigat" "Marc" "Marcel" "Marcelin" "Marcelus" "Marcellus" "Marecharles" "Mars" "Marseille" "Martelly" "Massénat" "Massillon" "Mathieu" "Mathurin" "Maximilien" "Mayard" "Méhu" "Mérisier" "Mésidor" "Métayer" "Métellus" "Menelas" "Mentor" "Mercéus" "Merilus" "Mervilus" "Michel" "Milfort" "Milien" "Mirville" "Moïse" "Mocombe" "Mombrun" "Momplaisir" "Mompremier" "Mondésir" "Mondestine" "Monestime" "Monnéus" "Morisseau" "Morland" "Mourra" "Moussignac" 
+            "Néré" "Namphy" "Narcisse" "Nemour" "Nemours" "Nerestant" "Nicolas" "Noël" "Nordé" "Normil" "Norvilus" "Norzelin""Numa"
+            "Obas" "Obin" "Occéan" "Ogé" "Olibrice" "Olivier" "Orélien" "Orcel" "Orelus" "Oreste" "Osias" "Ostine"
+            "Péralte" "Pétigny" "Pétion" "Paillant" "Pascal" "Paul" "Pauléus" "Pavilus" "Payen" "Petit-Frère" "Petit-Homme" "Petit-Nord" "Phanor" "Philantus" "Philidor" "Philippe" "Philistin" "Philius" "Philizaire" "Philogène" "Pierre" "Pierre-Antoine" "Pierre-Charles" "Pierre-Jean" "Pierre-Louis" "Pierre-Paul" "Pierrelus" "Pierrot" "Piou" "Placide" "Plaisime" "Pluviôse" "Point du Sable" "Poinvil" "Polycarpe" "Polynice" "Pompilus" "Prédestin" "Préval" "Prévilus" "Presendieu" "Previlma" "Princivil" "Printemps" "Prophète" "Prospère" "Providence" "Pyram"
+            "Raymond" "Rémilien" "Rémy" "Réveil" "René" "Renelus" "Renois" "Riché" "Richemond" "Ridoré" "Rigaud" "Rimpel" "la Rivière" "Romélus" "Romain" "Rouzier"
+            "Séjour" "Sème" "Sénatus" "Sévère" "Saül" "Sabbat" "Sagaille" "Sagesse" "Saget" "Saieh" "Saincilus" "Saint-Albord" "Saint-Amand" "Saint-Ange" "Saint-Armand" "Saint-Aude" "Saint-Brice" "Saint-Cyr" "Saint-Éloi" "Saint-Fleur" "Saint-Fleurant" "Saint-Fleury" "Saint-Fort" "Saint-Germain" "Saint-Hilaire" "Saint-Hillien" "Saint-Juste" "Saint-Lôt" "Saint-Louis" "Saint-Natus" "Saint-Phar" "Saint-Preux" "Saint-Surin" "Saint-Victor" "Saint-Vil" "Saintil" "Saintilma" "Salnave" "Salomon" "Sam" "Sambour" "Sanon" "Sansaricq" "Saturné" "Saurel" "Sénat" "Seide" "Senecharles" "Senexant" "Silien" "Siméon" "Siméus" "Similien" "Simon" "Sincère" "Souffrant" "Soulouque" "Souverain" "Stiverne" "Sylvain"
+            "Télémaque" "Télasco" "Talleyrand" "Telcide" "Telfort" "Telson" "Terlonge" "Théano" "Thélusma" "Thénor" "Théodore" "Théodule" "Théogène" "Theragene" "Thermidor" "Thermilus" "Thermitus" "Thiersaint" "Thoby-Marcelin" "Thomas" "Tilus" "Tingué" "Tippenhauer" "Tonnere-Carrié" "Torchon" "Toussaint" "Toyo" "Trélusca" "Trouillot" "Tunis"
+            "Turenne"
+            "Ulysse"
+            "Védrine" "Val" "Valbrun" "Valcin" "Valescot" "Valmont" "Valville" "Vertus" "Viénot" "Victor" "Vil" "Vilfort" "Villedrouin" "Villefranche" "Villejoin" "Vilmenay" "Vilsaint" "Vital" "Vixamar" "Volcimus" "Volcy" "Volamr" "Voltaire" "Vorbe"  
+            "Wêche"  "Wagnac"
+            "Zamor" "Zamy" "Zidor"
+            }
 	}
     kreol = {
         color = { 63 32 10 }
