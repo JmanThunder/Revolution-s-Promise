@@ -1,5 +1,6 @@
-owner = MEX
-controller = MEX
+owner = SPA
+controller = SPA
+colonial = 2
 terrain = ciudadjuarez
 add_core = MEX
 trade_goods = grain

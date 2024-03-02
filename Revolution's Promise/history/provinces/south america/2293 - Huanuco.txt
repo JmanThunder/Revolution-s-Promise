@@ -1,5 +1,6 @@
-owner = PEU
-controller = PEU
+owner = SPA
+controller = SPA
+colonial = 2
 add_core = PEU
 trade_goods = gold
 life_rating = 35

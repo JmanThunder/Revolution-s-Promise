@@ -1,5 +1,6 @@
-owner = USA
-controller = USA
+owner = INN
+controller = INN
+add_core = INN
 add_core = USA
 trade_goods = coal
 life_rating = 35

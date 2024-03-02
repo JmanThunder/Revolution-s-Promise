@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = INN
+controller = INN
+add_core = INN
 trade_goods = grain
 life_rating = 35
 terrain = sandusky

@@ -1,5 +1,6 @@
-owner = BOL
-controller = BOL
+owner = SPA
+controller = SPA
+colonial = 2
 add_core = BOL
 trade_goods = gold
 life_rating = 31

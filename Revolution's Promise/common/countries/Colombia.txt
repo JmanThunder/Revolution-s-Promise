@@ -1,4 +1,4 @@
-color = { 234 52 185 }
+color = { 209 209 129 }
 graphical_culture = ColombianGC
 
 party = {

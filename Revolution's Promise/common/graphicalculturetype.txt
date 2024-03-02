@@ -74,4 +74,5 @@ IsraelGC
 SikhGC
 EICGC
 IndochinaGC
+nativeamerican
 Generic

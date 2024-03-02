@@ -1,5 +1,6 @@
-owner = BRZ
-controller = BRZ
+owner = RGS
+controller = RGS
+colonial = 2
 add_core = BRZ
 add_core = SAC
 trade_goods = grain

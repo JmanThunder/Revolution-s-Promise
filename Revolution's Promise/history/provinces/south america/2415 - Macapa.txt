@@ -1,5 +1,6 @@
-owner = BRZ
-controller = BRZ
+owner = FRA
+controller = FRA
+colonial = 2
 add_core = BRZ
 add_core = RIG
 add_core = PAA

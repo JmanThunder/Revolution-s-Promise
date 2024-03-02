@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = NET
+controller = NET
 add_core = GUY
 add_core = AMA
 terrain = jungle_hills

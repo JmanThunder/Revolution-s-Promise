@@ -7,6 +7,9 @@ REB        = "countries/rebels.txt"
 UTI        = "countries/Utility Tag.txt"
 CLN        = "countries/Cleanup.txt"
 
+###   A Revolution's Promise   ###
+INN		= "countries/Indiana.txt"
+
 ### NEW NATIONS MOD ###
 
 ###France Mod###

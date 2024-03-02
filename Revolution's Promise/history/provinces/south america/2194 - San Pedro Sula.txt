@@ -1,5 +1,6 @@
-owner = UCA
-controller = UCA
+owner = SPA
+controller = SPA
+colonial = 2
 add_core = HON
 trade_goods = grain
 life_rating = 35

@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
+owner = INN
+controller = INN
+add_core = INN
 add_core = CAN
 trade_goods = fish
 life_rating = 35
-colonial = 2
 terrain = duluth

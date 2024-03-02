@@ -1,5 +1,6 @@
-owner = UCA
-controller = UCA
+owner = SPA
+controller = SPA
+colonial = 2
 add_core = GUA
 add_core = LOS
 trade_goods = iron

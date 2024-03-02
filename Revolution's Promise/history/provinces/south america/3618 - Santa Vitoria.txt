@@ -1,5 +1,5 @@
-owner = URU
-controller = URU
+owner = SPA
+controller = SPA
 add_core = URU
 add_core = RGS
 trade_goods = cattle
